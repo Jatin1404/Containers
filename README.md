@@ -1,2 +1,2 @@
 # Containers
-All stuff to setup podman locally with cheat sheet
+All stuff to setup containers locally with cheat sheet
